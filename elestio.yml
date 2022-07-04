@@ -52,6 +52,6 @@ webUI:
   - url: "https://[CI_CD_DOMAIN]/wp-admin"
     label: "Admin UI"
     login: "[ADMIN_EMAIL]"
-    password: "$ADMIN_PASSWORD"
+    password: "[ADMIN_PASSWORD]"
   - url: "https://[CI_CD_DOMAIN]"
     label: "Website"  
